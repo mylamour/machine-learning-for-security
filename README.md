@@ -56,7 +56,7 @@ with Long Short-Term Memory Networks",2 Nov 2016 [[pdf]](https://arxiv.org/abs/1
 
 ## 资源
 
-* [阿里聚安全:关于机器学习和网络安全的一些资料](http://jaq.alibaba.com/community/art/show?articleid=880)
+* [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security)
 * [Jason Trost:Collection of Deep Learning Cyber Security Research Papers](https://medium.com/@jason_trost/collection-of-deep-learning-cyber-security-research-papers-e1f856f71042)
 * [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 * [CS 259D: Data Mining for Cyber Security](http://web.stanford.edu/class/cs259d/)
