@@ -35,29 +35,46 @@
 
 ## 正文
 
-**[0]** Ye Zhang, Byron Wallace. "A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification", [[pdf]](https://arxiv.org/abs/1510.03820v1),6 Apr 2016 **(文本分类，检测webshell)** 推荐星级:star::star::star::star::star:
 
-**[1]** Yoon Kim. "Convolutional Neural Networks for Sentence Classification" [[pdf]](https://arxiv.org/abs/1408.5882),3 Sep 2014 **(文本分类，检测webshell)** 推荐星级:star::star::star::star::star:
+### Webshell Detection
 
-**[2]** Hyrum S. Anderson, Jonathan Woodbridge, Bobby Filar. "DeepDGA: Adversarially-Tuned Domain Generation and Detection" [[pdf]](https://arxiv.org/abs/1610.01969),6 Oct 2016 **(生成对抗网络，DGA检测)** 推荐星级:star::star::star::star::star:
+**[1]** Ye Zhang, Byron Wallace. "A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification", [[pdf]](https://arxiv.org/abs/1510.03820v1),6 Apr 2016 **(文本分类，检测webshell)** 推荐星级:star::star::star::star::star:
 
-**[3]** "DeepSign: Deep Learning for Automatic Malware
-Signature Generation and Classification" [[pdf]](http://www.covert.io/research-papers/deep-learning-security/DeepSign-%20Deep%20Learning%20for%20Automatic%20Malware%20Signature%20Generation%20and%20Classification.pdf) **(病毒签名生成和检测)** 推荐星级:star::star::star::star::star:
+**[2]** Yoon Kim. "Convolutional Neural Networks for Sentence Classification" [[pdf]](https://arxiv.org/abs/1408.5882),3 Sep 2014 **(文本分类，检测webshell)** 推荐星级:star::star::star::star::star:
 
-**[4]** Jonathan Woodbridge, Hyrum S. Anderson, Anjum Ahuja, Daniel Grant. "Predicting Domain Generation Algorithms
+### DGA Detection
+
+**[1]** Hyrum S. Anderson, Jonathan Woodbridge, Bobby Filar. "DeepDGA: Adversarially-Tuned Domain Generation and Detection" [[pdf]](https://arxiv.org/abs/1610.01969),6 Oct 2016 **(生成对抗网络，DGA检测)** 推荐星级:star::star::star::star::star:
+
+**[2]** Jonathan Woodbridge, Hyrum S. Anderson, Anjum Ahuja, Daniel Grant. "Predicting Domain Generation Algorithms
 with Long Short-Term Memory Networks" [[pdf]](https://arxiv.org/abs/1611.00791),2 Nov 2016 **(LSTM,DGA检测)** 推荐星级:star::star::star::star::star:
 
-**[5]** Hyrum S. Anderson, Anant Kharkar,Bobby Filar. "Evading Machine Learning Malware Detection" [[pdf]](https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf),22-27 July 2017 **(绕过病毒检测)** 推荐星级:star::star::star::star::star:
+### Malware Detection
 
-**[6]** L. Nataraj, S. Karthikeyan,G. Jacob. "Malware Images: Visualization and Automatic Classification" [[pdf]](https://vision.ece.ucsb.edu/sites/vision.ece.ucsb.edu/files/publications/nataraj_vizsec_2011_paper.pdf),2011 **(二进制可视化，病毒检测)** 推荐星级:star::star::star::star::star:
+**[1]** "DeepSign: Deep Learning for Automatic Malware
+Signature Generation and Classification" [[pdf]](http://www.covert.io/research-papers/deep-learning-security/DeepSign-%20Deep%20Learning%20for%20Automatic%20Malware%20Signature%20Generation%20and%20Classification.pdf) **(病毒签名生成和检测)** 推荐星级:star::star::star::star::star:
 
-**[7]** L. Nataraj, Vinod Yegneswaran,Phillip Porras,Jian Zhang. "A Comparative Assessment of Malware Classification using Binary Texture Analysis and Dynamic Analysis" [[pdf]](https://vision.ece.ucsb.edu/sites/vision.ece.ucsb.edu/files/publications/aisec17-nataraj.pdf) **(二进制可视化，图像分类，病毒检测)** 推荐星级:star::star::star::star::star:
+**[2]** Hyrum S. Anderson, Anant Kharkar,Bobby Filar. "Evading Machine Learning Malware Detection" [[pdf]](https://www.blackhat.com/docs/us-17/thursday/us-17-Anderson-Bot-Vs-Bot-Evading-Machine-Learning-Malware-Detection-wp.pdf),22-27 July 2017 **(绕过病毒检测)** 推荐星级:star::star::star::star::star:
 
-**[8]** Kolter, Maloof. "Learning to detect malicious executables in the wild" [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/KolterM06.pdf),2004 **(NLP, n-grams of byte codes,静态分析,病毒检测)** 推荐星级:star::star::star::star::star:
+**[3]** L. Nataraj, S. Karthikeyan,G. Jacob. "Malware Images: Visualization and Automatic Classification" [[pdf]](https://vision.ece.ucsb.edu/sites/vision.ece.ucsb.edu/files/publications/nataraj_vizsec_2011_paper.pdf),2011 **(二进制可视化，病毒检测)** 推荐星级:star::star::star::star::star:
 
-**[9]** Microsoft. "Microsoft portable executable and common object file format specification", [[pdf]](https://adeetc.thothapp.com/classes/SO/1617i/LI41N/workitems/1833/attachment),2013 **(微软PE文件的格式说明,需要了解的基础知识)** 推荐星级 :star::star::star::star::star:
+**[4]** L. Nataraj, Vinod Yegneswaran,Phillip Porras,Jian Zhang. "A Comparative Assessment of Malware Classification using Binary Texture Analysis and Dynamic Analysis" [[pdf]](https://vision.ece.ucsb.edu/sites/vision.ece.ucsb.edu/files/publications/aisec17-nataraj.pdf) **(二进制可视化，图像分类，病毒检测)** 推荐星级:star::star::star::star::star:
 
-**[10]** J. Saxe and K. Berlin. "Deep neural network based malware detection using two dimensional binary program features.In Malicious and Unwanted Software (MALWARE)", [[pdf]](https://arxiv.org/pdf/1508.03096.pdf),3 Sep 2015 **(DNN套路病毒检测，面对未知病毒也可检测)** 推荐星级 :star::star::star::star::star:
+**[5]** Kolter, Maloof. "Learning to detect malicious executables in the wild" [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/KolterM06.pdf),2004 **(NLP, n-grams of byte codes,静态分析,病毒检测)** 推荐星级:star::star::star::star::star:
+
+**[6]** Microsoft. "Microsoft portable executable and common object file format specification", [[pdf]](https://adeetc.thothapp.com/classes/SO/1617i/LI41N/workitems/1833/attachment),2013 **(微软PE文件的格式说明,需要了解的基础知识)** 推荐星级 :star::star::star::star::star:
+
+**[7]** J. Saxe and K. Berlin. "Deep neural network based malware detection using two dimensional binary program features.In Malicious and Unwanted Software (MALWARE)", [[pdf]](https://arxiv.org/pdf/1508.03096.pdf),3 Sep 2015 **(DNN套路病毒检测，面对未知病毒也可检测)** 推荐星级 :star::star::star::star::star:
+
+
+### IDS
+
+[1]金波,林家骏,王行愚. 入侵检测技术评述[J]. 华东理工大学学报,2000,(02):191-197. [2017-09-21]. DOI：10.14135/j.cnki.1006-3080.2000.02.023
+
+
+### Password
+
+**[1]** Briland Hitaj, Paolo Gasti, Giuseppe Ateniese, Fernando Perez-Cruz "PassGAN A Deep Learning Approach for Password Guesssing", [[pdf]](https://arxiv.org/pdf/1709.00440.pdf),1 Sep 2017 **(GAN网络 破解密码)** 推荐星级 :star::star::star::star::star:
 
 
 ## 资源
