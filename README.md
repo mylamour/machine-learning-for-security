@@ -40,7 +40,7 @@
 
 **[1]** Ye Zhang, Byron Wallace. "A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification", [[pdf]](https://arxiv.org/abs/1510.03820v1),6 Apr 2016 **(文本分类，检测webshell)** 推荐星级:star::star::star::star::star:
 
-**[2]** Yoon Kim. "Convolutional Neural Networks for Sentence Classification" [[pdf]](https://arxiv.org/abs/1408.5882),3 Sep 2014 **(文本分类，检测webshell)** 推荐星级:star::star::star::star::star:
+**[2]** Yoon Kim. "Convolutional Neural Networks for Sentence Classification" [[pdf]](https://arxiv.org/abs/1408.5882),3 Sep 2014 **(文本分类，检测webshell,XSS等)** 推荐星级:star::star::star::star::star:
 
 ### DGA Detection
 
@@ -69,13 +69,18 @@ Signature Generation and Classification" [[pdf]](http://www.covert.io/research-p
 
 ### IDS
 
-[1]金波,林家骏,王行愚. 入侵检测技术评述[J]. 华东理工大学学报,2000,(02):191-197. [2017-09-21]. DOI：10.14135/j.cnki.1006-3080.2000.02.023
+**[1]** 金波,林家骏,王行愚. "入侵检测技术评述[J]. 华东理工大学学报", 21 09 2017 推荐星级 :star::star::star:
 
 
 ### Password
 
 **[1]** Briland Hitaj, Paolo Gasti, Giuseppe Ateniese, Fernando Perez-Cruz "PassGAN A Deep Learning Approach for Password Guesssing", [[pdf]](https://arxiv.org/pdf/1709.00440.pdf),1 Sep 2017 **(GAN网络 破解密码)** 推荐星级 :star::star::star::star::star:
 
+### Attack
+
+**[1]** Alex Graves, "Generating Sequences With Recurrent Neural Networks", [[pdf]](https://arxiv.org/pdf/1308.0850.pdf), 5 Jun 2014 **(文本生成必备论文，RNN,作为LSTM生成XSS必读论文)** 推荐星级 :star::star::star::star::star:
+
+**[2]** 
 
 ## 资源
 
