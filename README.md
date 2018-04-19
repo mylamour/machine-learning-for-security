@@ -42,6 +42,8 @@
 
 **[2]** Yoon Kim. "Convolutional Neural Networks for Sentence Classification" [[pdf]](https://arxiv.org/abs/1408.5882),3 Sep 2014 **(文本分类，检测webshell,XSS等)** 推荐星级:star::star::star::star::star:
 
+**[3]** Johannes Dahse. "Static Detection of Complex Vulnerabilities in Modern PHP Applications" [[pdf]](https://d-nb.info/1099703417/34), 02 Feb 2016 **(AST，检测webshell)** 推荐星级:star::star::star::star::star:
+
 ### DGA Detection
 
 **[1]** Hyrum S. Anderson, Jonathan Woodbridge, Bobby Filar. "DeepDGA: Adversarially-Tuned Domain Generation and Detection" [[pdf]](https://arxiv.org/abs/1610.01969),6 Oct 2016 **(生成对抗网络，DGA检测)** 推荐星级:star::star::star::star::star:
