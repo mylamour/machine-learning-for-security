@@ -14,6 +14,9 @@
 * 自动化钓鱼，生成受害者感兴趣的东西给他点
 * 生成符合规律的密码(总觉得这个用处不大,但是应该也能减少一定的爆破时间吧)
 * 用户画像查找嫌疑人
+* 威胁情报文本摘要
+* 用于Fuzzing攻击
+* 反诈骗聊天机器人(之前看到过一个专门用于和垃圾邮件聊天的机器人，用于消耗骗子的时间)
 
 > 这些检测与绕过大部分无非是与文本相关的处理，所以可算是NLP在安全领域的应用,同时也可以看到,将二进制文件转换为灰度图可以用来检测病毒,所以这个可以算是CV的迁移应用。同样，在绕过检测这个环节里，有可能会用到RL的一些知识。
 
@@ -82,7 +85,7 @@ Signature Generation and Classification" [[pdf]](http://www.covert.io/research-p
 
 **[1]** Alex Graves, "Generating Sequences With Recurrent Neural Networks", [[pdf]](https://arxiv.org/pdf/1308.0850.pdf), 5 Jun 2014 **(文本生成必备论文，RNN,作为LSTM生成XSS必读论文)** 推荐星级 :star::star::star::star::star:
 
-**[2]** 
+**[2]** Hila Peleg, Patrice Godefroid,Rishabh Singh, "Learn&Fuzz: Machine Learning for Input Fuzzing", [[pdf]](https://patricegodefroid.github.io/public_psfiles/ase2017.pdf), 2017 **(机器学习和Fuzzing )** 推荐星级 :star::star::star::star::star:
 
 ## 资源
 
